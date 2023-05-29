@@ -1,12 +1,12 @@
 # Site settings
 title: AI 繪圖 - 自由畫廊 新視界
-description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
+description: 'AI繪圖 - 自由畫廊 新視界，為藝術創作、設計工作帶來最新的AI創新應用，產品服務包含：AI繪圖教學、AI技術教學、繪圖工具介紹、室內設計工具、成衣設計、AI詠唱等，主題更包含：人像攝影、藝術創作、動漫創作、logo設計、2D平面設計、3D模擬設計等。' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://the-mvm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/img/branding/MVM-logo-full.svg"
-logo-icon: "/assets/img/branding/MVM-symbol.svg"
-logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
+url: "https://ai-art-master.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/img/favicon.ico"
+logo-icon: "/img/favicon.ico"
+logo-icon-SEO: "/img/favicon.ico" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
